@@ -26,7 +26,7 @@ Now we have a copy of the RBX1 repository in our workspace, it's time to compile
 
 ```
 cd <yourWorkspace>
-catkin_make>
+catkin_make
 ```
 
 In case of presenting any issue, try install the next ROS dependencies:
