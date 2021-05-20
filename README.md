@@ -1,4 +1,4 @@
-# How-to-Remap
+# How to Remap
 ## Explanation of the exercise
 This is a simple example of how to remap correctly. In this case, we are going to edit the fake_turtlebot.launch file to 
 move the robot from RBX1 package with our keyboard.
