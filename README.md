@@ -97,7 +97,7 @@ julianroa18@julianroa18-Aspire-E5-575G:~$ rostopic list
 /turtle1/cmd_vel
 ```
 
-The last one, **"/turtle1/cmd_vel"** is the second topic that we will remap
+The last one, **"/turtle1/cmd_vel"** is the second topic that we will remap.
 Save that topics for the next step
 
 
