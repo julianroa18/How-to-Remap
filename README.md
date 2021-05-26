@@ -145,7 +145,7 @@ Now add this line in the fake_turtlebot.launch file and the new file should look
 ## How to show the result
 
 Save the changes in the .launch file and kill all the procces in the terminal, except roscore.
-Run the .launch again, and then copy the next command in the terminal
+Run the .launch and the turtle_teleop_key node again, and then copy the next command in another terminal
 
 ```
 rqt_graph
