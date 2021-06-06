@@ -166,8 +166,9 @@ rosparam set teleop_turtle/scale_linear 0.5
 Where 0.5 is the new velocity. Execute again and enjoy :)
 
 
-## Collaborators
-- Gerson Hernández
+# Collaborators
 - Kevin Parra 
-- Daniel Cruz
 - Julián Roa
+
+# Tutor
+-Hernán Hernandez
