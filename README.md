@@ -171,4 +171,4 @@ Where 0.5 is the new velocity. Execute again and enjoy :)
 - Julián Roa
 
 # Tutor
--Hernán Hernandez
+- Hernán Hernandez
